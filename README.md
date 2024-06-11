@@ -47,6 +47,7 @@ Emoji Cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 You can reach me at the email in my GitHub profile. Connect with me on LinkedIn!
+
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/joey-yifan-zhu/)
 
 ## ⚡ 𝚂𝚘𝚞𝚛𝚌𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
