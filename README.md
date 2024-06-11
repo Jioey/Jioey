@@ -32,8 +32,8 @@ Emoji Cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
   - Conduct independent research with Professor Krzysztof Onak in parallel algorithms
   - Contribute to Professor Sandra Buerger's current research in environmental ecology
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- Get a PhD and contribute meaningfully to the field of Comp Sci
-  - Skydiving!
+  - Get a PhD in Computer Science!
+  - Skydiving
   - Travel all 7 continents
 <!-- - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑: -->
 
