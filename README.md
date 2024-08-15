@@ -21,13 +21,12 @@ Emoji Cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ✨ Computer Science student with immense intellectual curiosity
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 at Boston University, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 May 2025
+- 🎓 Studying at Boston University, graduating May 2025
 - ✈ Originally from Shanghai, China, and went to boarding school in Birmingham, AL
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-  - Studying towards a Business minor
-  - Enjoying the summer ☀
+  - Assisting research at Fudan University in Shanghai 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
   - Conduct independent research with Professor Krzysztof Onak in parallel algorithms
   - Contribute to Professor Sandra Buerger's current research in environmental ecology
@@ -51,4 +50,4 @@ You can reach me at the email in my GitHub profile. Connect with me on LinkedIn!
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/joey-yifan-zhu/)
 
 ## ⚡ 𝚂𝚘𝚞𝚛𝚌𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
-Thank you @Raymo111 for the template and inspiration for this README! Their repo can be found [here](https://github.com/Raymo111/Raymo111/tree/master).
+Thank you @Raymo111 for the template and inspiration for this README. Their repo can be found [here](https://github.com/Raymo111/Raymo111/tree/master).
