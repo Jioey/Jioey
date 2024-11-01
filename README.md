@@ -22,30 +22,29 @@ Emoji Cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ✨ Computer Science student with immense intellectual curiosity
 - 🎓 Studying at Boston University, graduating May 2025
-- ✈ Originally from Shanghai, China, and went to boarding school in Birmingham, AL
+- ✈ Originally from Shanghai, China, and went to a boarding high school in Birmingham, AL
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-  - Assisting research at Fudan University in Shanghai 
+  - Researching with Professor Krzysztof Onak on implementing a Maximum Matching algorithm based on the Massively Parallel Computation model and other recent research
+  - Working with Professor Sandra Buerger on her current research in antibacterial resistance in the Charles River
+  - Building my own Raspberry Pi cluster
+  - Maintaining the club website for BU's Chinese Students & Scholars Association
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-  - Conduct independent research with Professor Krzysztof Onak in parallel algorithms
-  - Contribute to Professor Sandra Buerger's current research in environmental ecology
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+  - Gradute early
   - Get a PhD in Computer Science!
-  - Skydiving
+  - Learn more about the field of Computer Systems
+- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+  - Skydiving!
   - Travel all 7 continents
 <!-- - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑: -->
 
-<!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 -->
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140772750) in [LibreSign/libresign](https://github.com/LibreSign/libresign) -->
-<!--END_SECTION:activity-->
-
+<!-- Metrics -- currently broken, uses [https://github.com/marketplace/actions/metrics-embed](https://github.com/lowlighter/metrics)
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/Jioey?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
+-->
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-You can reach me at the email in my GitHub profile. Connect with me on LinkedIn!
+You can reach me at the email on my GitHub profile. Connect with me on LinkedIn!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/joey-yifan-zhu/)
 
