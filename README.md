@@ -20,7 +20,7 @@ Emoji Cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Jioey.Jioey&color=00cf00)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- ✨ Computer Science student with immense intellectual curiosity
+- ✨ Computer Science student who's always curious to learn more and experience new things
 - 🎓 Studying at Boston University, graduating May 2025
 - ✈ Originally from Shanghai, China, and went to a boarding high school in Birmingham, AL
 
