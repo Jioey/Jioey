@@ -17,7 +17,7 @@ Emoji Cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 
 <img src="https://github.com/Jioey/Jioey/blob/main/intro.gif" alt="👋 Hi there! I'm Joey" title="👋 Hi there! I'm Joey"/>
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Jioey.Jioey&color=00cf00)
+<!--![visitors](https://vbr.nathanchung.dev/badge?page_id=Jioey.Jioey&color=00cf00)-->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ✨ Computer Science student who's always curious to learn more and experience new things
