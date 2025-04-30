@@ -26,16 +26,15 @@ Emoji Cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-  - Researching with Professor Krzysztof Onak on implementing a Maximum Matching algorithm based on the Massively Parallel Computation model and other recent research
-  - Working with Professor Sandra Buerger on her current research in antibacterial resistance in the Charles River
-  - Building my own Raspberry Pi cluster
-  - Maintaining the club website for BU's Chinese Students & Scholars Association
+  - Wrapping up my undergraduate studies
+  - Learning more about the computer systems industry
+  - Looking for work, wherever that may take me
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-  - Gradute early
-  - Get a PhD in Computer Science!
-  - Learn more about the field of Computer Systems
+  - Do more independent project
+  - Work on FPGAs and robotics
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-  - Skydiving!
+  - Try skydiving
+  - Get a PhD
   - Travel all 7 continents
 <!-- - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑: -->
 
